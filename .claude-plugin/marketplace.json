@@ -1,0 +1,27 @@
+{
+  "name": "cardmagic",
+  "owner": {
+    "name": "Lucas Carlson",
+    "email": "lucas@carlson.net"
+  },
+  "plugins": [
+    {
+      "name": "reminders",
+      "source": "git@github.com:cardmagic/reminders.git",
+      "description": "Search, create, and complete Apple Reminders",
+      "version": "1.0.0"
+    },
+    {
+      "name": "notes",
+      "source": "git@github.com:cardmagic/notes.git",
+      "description": "Search and browse Apple Notes with fuzzy matching",
+      "version": "1.0.0"
+    },
+    {
+      "name": "messages",
+      "source": "git@github.com:cardmagic/messages.git",
+      "description": "Fuzzy search Apple Messages/iMessage conversations",
+      "version": "1.0.0"
+    }
+  ]
+}
