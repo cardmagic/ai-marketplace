@@ -1,6 +1,6 @@
-# cardmagic Claude Code Marketplace
+# AI Marketplace
 
-A unified marketplace for Claude Code plugins by Lucas Carlson.
+Claude Code plugins by Lucas Carlson.
 
 ## Plugins
 
@@ -15,7 +15,7 @@ A unified marketplace for Claude Code plugins by Lucas Carlson.
 
 ```bash
 # Add the marketplace
-claude plugin marketplace add cardmagic/cardmagic-marketplace
+claude plugin marketplace add cardmagic/ai-marketplace
 
 # Install individual plugins
 claude plugin install reminders@cardmagic
