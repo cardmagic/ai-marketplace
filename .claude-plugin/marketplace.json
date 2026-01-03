@@ -7,25 +7,25 @@
   "plugins": [
     {
       "name": "reminders",
-      "source": "./reminders",
+      "source": "./plugins/reminders",
       "description": "Search, create, and complete Apple Reminders",
       "version": "1.0.0"
     },
     {
       "name": "notes",
-      "source": "./notes",
+      "source": "./plugins/notes",
       "description": "Search and browse Apple Notes with fuzzy matching",
       "version": "1.0.0"
     },
     {
       "name": "messages",
-      "source": "./messages",
+      "source": "./plugins/messages",
       "description": "Fuzzy search Apple Messages/iMessage conversations",
       "version": "1.0.0"
     },
     {
       "name": "classifier",
-      "source": "./classifier",
+      "source": "./plugins/classifier",
       "description": "Text classification CLI using Bayesian, LSI, KNN, and more algorithms",
       "version": "1.0.0"
     }
