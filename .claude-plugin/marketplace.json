@@ -22,6 +22,12 @@
       "source": "git@github.com:cardmagic/messages.git",
       "description": "Fuzzy search Apple Messages/iMessage conversations",
       "version": "1.0.0"
+    },
+    {
+      "name": "classifier",
+      "source": "git@github.com:cardmagic/classifier.git",
+      "description": "Text classification CLI using Bayesian, LSI, KNN, and more algorithms",
+      "version": "1.0.0"
     }
   ]
 }

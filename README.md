@@ -1,6 +1,6 @@
 # cardmagic Claude Code Marketplace
 
-A unified marketplace for Apple ecosystem Claude Code plugins.
+A unified marketplace for Claude Code plugins by Lucas Carlson.
 
 ## Plugins
 
@@ -9,6 +9,7 @@ A unified marketplace for Apple ecosystem Claude Code plugins.
 | **reminders** | Search, create, and complete Apple Reminders |
 | **notes** | Search and browse Apple Notes with fuzzy matching |
 | **messages** | Fuzzy search Apple Messages/iMessage conversations |
+| **classifier** | Text classification CLI using Bayesian, LSI, KNN, and more |
 
 ## Installation
 
@@ -20,6 +21,7 @@ claude plugin marketplace add cardmagic/cardmagic-marketplace
 claude plugin install reminders@cardmagic
 claude plugin install notes@cardmagic
 claude plugin install messages@cardmagic
+claude plugin install classifier@cardmagic
 ```
 
 ## Development
@@ -28,3 +30,4 @@ Each plugin lives in its own repository:
 - https://github.com/cardmagic/reminders
 - https://github.com/cardmagic/notes
 - https://github.com/cardmagic/messages
+- https://github.com/cardmagic/classifier
